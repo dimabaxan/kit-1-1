@@ -5,22 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb5deeb-9513-4c53-bd20-11609a1bfc23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ClientGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ServerWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IServerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ServerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ServerGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ServerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ServerWindow.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2jy0Le1XWJLdb1Dcn66VdBzPdkE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,9 +43,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Main.executor": "Debug",
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -71,6 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1722343964031</updated>
       <workItem from="1722343967008" duration="2241000" />
+      <workItem from="1723627993793" duration="3909000" />
     </task>
     <servers />
   </component>
